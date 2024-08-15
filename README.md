@@ -1,18 +1,13 @@
 # Sales-Analysis-in-Power-BI
-I have performed data visualization in Power BI. In this project i have done data transformation, data modeling, and lastly data visualization.
+I have performed data visualization in Power BI. In this project i have done data transformation, data modeling, and lastly data visualization.This project is based on analyzing product sales using different kinds of charts to predict future growth in product. 
 <br>
- This project is based on analyzing product sales using different kinds of charts to predict future growth in product.
- <br>
- I have learned about creating dashboards in Power BI.
-<br> 
-➡️Firstly started by loading data then transforming it and cleaning the data. 
+Following are the key takeaways:-
 <br>
-➡️ Performing data modeling operations, like connecting tables with each other.
+– Customized a multi-functional Power BI dashboard to analyze the sales trends of a bicycle company over the global
+market by gathering data from 1 source (Excel/CSV files).
 <br>
-➡️ Performing DAX calculations to create calculated columns.This is really important part of Power BI dash boarding.
+– Developed data model and visualizations in Power BI, and optimized the report with DAX which improved the
+analysis of customer behavior with a return rate of 2.2%.
 <br>
-➡️At last comes the visualization part where we create different types of graphs(KPI Cards, charts, Matrix etc.) to make our dashboard intuitive, also applying effects. 
-<br>
-➡️There are many different types of graphs for finding new trends in the charts(forecasting).
-<br>
-➡️Creating world map chart tells us about maximum impactful region among the others.
+– Created different tabs of visualization for region, customer details and Product details which helped in making data-driven
+decisions, resulting in a projected profit of 42.86%.
